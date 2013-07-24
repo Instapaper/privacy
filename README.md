@@ -69,7 +69,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 You can access all your personally identifiable information that we collect online and maintain by logging into your Instapaper account on the Instapaper website at <a href="http://www.instapaper.com/">http://www.instapaper.com/</a>.
 
-You can correct factual errors in your personally identifiable information by changing or deleting the erroneous information, by deleting your entire Instapaper account at <a href="http://www.instapaper.com/user/delete">http://www.instapaper.com/user/delete</a>, or by emailing <a href="mailto:instapaper@marco.org">instapaper@marco.org</a>.
+You can correct factual errors in your personally identifiable information by changing or deleting the erroneous information, by deleting your entire Instapaper account at <a href="http://www.instapaper.com/user/delete">http://www.instapaper.com/user/delete</a>, or by emailing <a href="mailto:support@instapaper.com">support@instapaper.com</a>.
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
@@ -81,7 +81,7 @@ Due to the nature of backups and logs, deleted data may persist in backups and l
 
 ## How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please email <a href="mailto:instapaper@marco.org">instapaper@marco.org</a>. At this time, we only have the ability to receive and send English-language communications.
+Should you have other questions or concerns about these privacy policies, please email <a href="mailto:support@instapaper.com">support@instapaper.com</a>. At this time, we only have the ability to receive and send English-language communications.
 
 ## Changes To This Policy
 
