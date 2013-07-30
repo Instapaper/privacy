@@ -1,6 +1,4 @@
-# Privacy Policy
-
-* Note: At the time of writing, Instapaper is operated by an individual as Instapaper, LLC. For simplicity now and in the future, the plural pronouns "we", "our", and "us" are used in this document.
+## Privacy Policy
 
 ## Our Commitment To Privacy
 
