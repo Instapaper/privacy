@@ -49,7 +49,7 @@ Instapaper contains social and sharing functionality, including:
 
 ## External Services
 
-External services beyond Instapaper's control are integrated with Instapaper where necessary, such as <a href="http://decknetwork.net/">The Deck</a> for advertising and <a href="http://www.google.com/analytics/">Google Analytics</a> for traffic measurement and tracking.
+External services beyond Instapaper's control are integrated with Instapaper where necessary, such as <a href="http://decknetwork.net/">The Deck</a> for advertising, and Localytics, Chartbeat & Google Analytics for traffic measurement and tracking.
 
 Instapaper makes reasonable efforts to ensure that all integrated external services are trustworthy and reputable, but Instapaper cannot be held responsible for data collection and usage by such services.
 
