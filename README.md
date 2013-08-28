@@ -6,7 +6,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 ## The Information We Collect
 
-This notice applies to all information collected or submitted on the Instapaper website and the Instapaper applications and services for iPhone, iPad, Kindle, and other devices and platforms, hereafter referred to as simply Instapaper.
+This notice applies to all information collected or submitted on the Instapaper website and the Instapaper applications and services for iPhone, iPad, Android, Kindle, and other devices and platforms, hereafter referred to as simply Instapaper.
 
 Instapaper occasionally needs to collect information for convenience, practicality, or technical requirements. This information includes:
 
