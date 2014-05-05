@@ -10,7 +10,7 @@ Instapaper occasionally needs to collect information for convenience, practicali
 
 * Your chosen username, which may be your email address or name. A username is technically required so you can log in from multiple computers and devices. We encourage you to use your email address to make "forgot password" functionality possible.
 * Your chosen password, which is empty by default. A hash of your password is stored in the Instapaper database, and the plain-text password is only used for hash comparison to the stored value.
-* The titles, URLs (addresses), and selected text of the pages you save to Instapaper with the Read Later bookmarklet, folder-specific bookmarklets, Instapaper applications, third-party applications using the Instapaper API, and any other means with which to add pages to Instapaper.
+* The titles, URLs (addresses), and selected text of the pages you save to Instapaper, folder-specific bookmarklets, Instapaper applications, third-party applications using the Instapaper API, and any other means with which to add pages to Instapaper.
 * The HTML contents of the pages you save to Instapaper when recognized as a known login-requiring site. This is technically required to generate the Text view and other indexing features for sites that require logins or accounts, such as some major newspaper publishers. When HTML is saved for a page, it is only used within your account and is not revealed via social or sharing features.
 * Your Amazon Kindle email address, if you have enabled automatic delivery to your Kindle. This is technically required to send your content to your Kindle.
 
