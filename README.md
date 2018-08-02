@@ -26,6 +26,7 @@ We use return email addresses to answer the email we receive. Such addresses are
 
 We use non-identifying and aggregate information to better design Instapaper, to suggest popular content to users, and to share with advertisers and publishers. For example:
 
+* We may use aggregate information from Instapaper usage to help design new features or services for the product.
 * We may tell an advertiser or publisher that _X_ number of people visited a certain area on our website
 * We may tell an advertiser or publisher that _X_ number of people bookmarked _Z_ stories from a particular site or topic.
 * We may aggregate the most popular stories during limited time periods or from certain websites in order to suggest stories for Instapaper's Editor's Picks or for users who have also saved pages from those websites.
@@ -40,14 +41,14 @@ In the future, we may sell, buy, merge, or partner with other companies or busin
 
 ##### Publicly Accessible Information
 
-Instapaper contains social and sharing functionality, including:
+Some information you share on Instapaper is considered public when you use our social and sharing functionality, including:
 
 * Others can view your most recent Starred articles if they know your username.
 * Others can view your Unread, Archive, Starred, or folder contents if you reveal or share their associated RSS-feed URLs.
 
 ##### External Services
 
-External services beyond Instapaper's control are integrated with Instapaper where necessary, such as <a href="http://decknetwork.net/">The Deck</a> for advertising, and Localytics, Chartbeat & Google Analytics for traffic measurement and tracking.
+External services beyond Instapaper's control are integrated with Instapaper where necessary, such as Mailgun for email sending, Crashlytics for crash reporting, ZenDesk for customer support, and Google Analytics for traffic measurement and tracking.
 
 Instapaper makes reasonable efforts to ensure that all integrated external services are trustworthy and reputable, but Instapaper cannot be held responsible for data collection and usage by such services.
 
@@ -75,10 +76,34 @@ You can delete your entire Instapaper account at any time at <a href="http://www
 
 Due to the nature of backups and logs, deleted data may persist in backups and logs until they are deleted.
 
+##### GDPR: Information for EEA Users
+
+What Rights Do I Have?
+
+Individuals located in the European Economic Area (EEA) have certain rights in respect of your personal information and Instapaper will provide these capabilities to all our worldwide users, including:
+
+* The right of access to your personal data;
+* The right to correct or rectify any inaccurate personal data;
+* The right to restrict or oppose processing of personal data;
+* The right to erase your personal data; and
+* The right to personal data portability.
+
+Instapaper uses, processes, and stores personal data, including those listed in the "Information We Collect" section, as necessary to perform our contract with you, and based on our legitimate interests in order to provide the Services. We rely on your consent to process personal data to place cookies on your devices. In some cases, Instapaper may process personal data pursuant to legal obligation or to protect your vital interests or those of another person.
+
+How Can I Exercise my Rights?
+
+If you're a user based in the EEA, you can:
+
+* Request a personal data report by submitting a request to <a href="mailto:support@instapaper.com">support@instapaper.com</a>. This report will include the personal data we have about you, provided to you in a structured, commonly used, and portable format. Please note that Instapaper may request additional information from you to verify your identity before we disclose any information. 
+* Have your personal data corrected or deleted. Some personal data can be updated by you through your Instapaper account settings, or by contacting us at support@instapaper.com. You can also remove your personal data from Instapaper by deleting your account at <a href="http://www.instapaper.com/user/delete">http://www.instapaper.com/user/delete</a>.
+* Complain to a regulator. If you're based in the EEA and think that we haven't complied with data protection laws, you have a right to lodge a complaint with your local supervisory authority.
+
+If you have other questions or do not have a Instapaper account, please contact us at <a href="mailto:support@instapaper.com">support@instapaper.com</a>.
+
 ##### How To Contact Us
 
 Should you have other questions or concerns about these privacy policies, please email <a href="mailto:support@instapaper.com">support@instapaper.com</a>. At this time, we only have the ability to receive and send English-language communications.
 
 ##### Changes To This Policy
 
-Instapaper reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of Instapaper following the posting of changes to this policy will mean you accept those changes.
+Instapaper reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of Instapaper following the posting of changes to this policy will mean you accept those changes. We will notify you before we make material changes to this policy and give you an opportunity to review the revised policy before deciding if you would like to continue to use the Services. You can review previous versions of the policy at <a href="https://github.com/Instapaper/privacy">https://github.com/Instapaper/privacy</a>.
