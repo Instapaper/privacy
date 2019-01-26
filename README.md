@@ -76,6 +76,20 @@ You can delete your entire Instapaper account at any time at <a href="http://www
 
 Due to the nature of backups and logs, deleted data may persist in backups and logs until they are deleted.
 
+##### Privacy Shield
+Instapaper complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States pursuant to the Privacy Shield. Instapaper has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov).
+
+In compliance with the Privacy Shield Principles, Instapaper commits to resolve complaints about your privacy and our collection or use of your personal information pursuant to the Privacy Shield. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Instapaper at <a href="mailto:support@instapaper.com">support@instapaper.com</a>.
+
+Within the scope of this privacy notice, if a privacy complaint or dispute cannot be resolved through Instapaper's internal processes, the Federal Trade Commission has jurisdiction over Instapaper's compliance with the Privacy Shield.
+
+The Privacy Shield Principles describe Instapaper's accountability for personal data that it subsequently transfers to a third-party agent. Under the Privacy Shield Principles, Instapaper shall remain liable if third party agents process the personal information in a manner inconsistent with the Privacy Shield Principles, unless Instapaper proves it is not responsible for the event giving rise to the damage. If we cannot, we have selected JAMS, an independent dispute resolution provider, to handle unresolved Privacy Shield complaints. If we are unable to resolve your concerns after a good faith effort to address them, you may contact JAMS and submit a Privacy Shield claim. JAMS is a US-based private alternate dispute resolution provider, and we have contracted with JAMS to provide an independent recourse mechanism for any of our users for privacy concerns at no cost to you. You may learn more about the JAMS service or file a claim with JAMS by visiting [https://www.jamsadr.com/eu-us-privacy-shield](https://www.jamsadr.com/eu-us-privacy-shield). You do not need to appear in court; you may conduct this dispute resolution process via telephone or video conference.
+
+Note that Instapaper may be required to release the personal data of EU and Swiss individuals whose data is pursuant to the Privacy Shield in response to legal requests from public authorities, including to meet national security and law enforcement requirements.
+In certain circumstances, the Privacy Shield Framework provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in Annex I to the Privacy Shield Principles.
+
+In certain circumstances, the Privacy Shield Framework provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in [Annex I to the Privacy Shield Principles](https://www.privacyshield.gov/article?id=ANNEX-I-introduction).
+
 ##### GDPR: Information for EEA Users
 
 What Rights Do I Have?
@@ -108,4 +122,4 @@ Should you have other questions or concerns about these privacy policies, please
 
 Instapaper reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of Instapaper following the posting of changes to this policy will mean you accept those changes. We will notify you before we make material changes to this policy and give you an opportunity to review the revised policy before deciding if you would like to continue to use the Services. You can review previous versions of the policy at <a href="https://github.com/Instapaper/privacy">https://github.com/Instapaper/privacy</a>.
 
-Effective Date: August 7th, 2018
+Effective Date: January 26th, 2019
