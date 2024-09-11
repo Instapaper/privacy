@@ -48,7 +48,7 @@ Some information you share on Instapaper is considered public when you use our s
 
 ##### External Services
 
-External services beyond Instapaper's control are integrated with Instapaper where necessary, such as Mailgun for email sending, Crashlytics for crash reporting, ZenDesk for customer support, and Google Analytics for traffic measurement and tracking.
+External services beyond Instapaper's control are integrated with Instapaper where necessary, such as Mailgun for email sending, Crashlytics for crash reporting, ZenDesk for customer support, and Google Analytics for traffic measurement and tracking. Integrations with Google services like Analytics, YouTube, and YouTube API Services are bound to the [Google Privacy Policy](http://www.google.com/policies/privacy).
 
 Instapaper makes reasonable efforts to ensure that all integrated external services are trustworthy and reputable, but Instapaper cannot be held responsible for data collection and usage by such services.
 
